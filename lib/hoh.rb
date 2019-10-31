@@ -31,7 +31,8 @@
 # }
 
 def naming_system
-  Portion_1
+Portion_1 = {
+        :label => "Kingdom", :sub_category}
     
 
 end
