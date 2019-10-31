@@ -31,5 +31,5 @@
 # }
 
 def naming_system
-Kingdom
+
 end
